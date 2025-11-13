@@ -148,8 +148,8 @@ header {
 .hero-bottom::before{
     position: absolute;
     content: '';
-    width: 120%;
-    left: 50%;
+    width: 100%;
+    left: 0;
     height: 100%;
     top: 0;
     border: solid .25rem transparent;
@@ -159,7 +159,6 @@ header {
     background: radial-gradient(50% 500% at 50% -420%, rgba(64, 97, 231, 0.4) 80%, rgba(0, 0, 0, 0.1) 100%), black;
     -webkit-background-clip: padding-box;
     background-clip: padding-box;
-    transform: translateX(-50%);
 }
 .hero-bottom::after{
     position: absolute;
