@@ -18,7 +18,7 @@ A pixel-perfect, responsive Netflix clone built with modern web technologies. Th
 
 ## 🚀 Live Demo
 
-[View Live Demo](https://6914c4a6a05866368ed271d8--mannshah19-net-flix.netlify.app/)
+[View Live Demo](https://agent-6915e2739636b70586dfb--mannshah19-net-flix.netlify.app/)
 
 ## 📸 Screenshots
 
