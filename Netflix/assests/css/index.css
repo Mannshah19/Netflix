@@ -67,30 +67,7 @@ img{
 /* ========================================
    HEADER
    ======================================== */
-header {
-    width: 100%;
-    position: absolute;
-    z-index: 2;
-}
-.controls{
-    display: flex;
-    justify-content: flex-end;
-}
 
-.language-dropdown {
-    display: block;
-    padding: 4px;
-    color: var(--white);
-    border: 1px solid var(--border-gray);
-    border-radius: var(--radius-sm);
-}
-
-.language-dropdown select {
-    background: transparent;
-    border: none;
-    color: var(--white);
-    font-weight: 600;
-}
 
 .sign-btn {
     display: block;
